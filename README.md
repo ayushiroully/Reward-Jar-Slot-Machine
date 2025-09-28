@@ -16,3 +16,10 @@ It’s perfect for adding a touch of gamification to your daily routine, or even
 3. Confetti celebration – a little visual reward for some extra fun 🎉.
 
 4. History tracking – keep a record of all the rewards you’ve pulled.
+
+## Screenshot
+
+Here’s a peek at the app in action:
+
+<img width="491" height="360" alt="image" src="https://github.com/user-attachments/assets/92184e2e-31db-48e2-83af-90ca7026df02" />
+
