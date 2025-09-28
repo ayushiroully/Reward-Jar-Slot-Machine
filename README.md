@@ -23,3 +23,37 @@ Here’s a peek at the app in action:
 
 <img width="491" height="360" alt="image" src="https://github.com/user-attachments/assets/92184e2e-31db-48e2-83af-90ca7026df02" />
 
+## Installation & Run
+
+Getting started with the **Motivation Reward Jar** is super easy. Just follow these steps:
+
+1. **Clone the repository**
+   Open your terminal and run:
+
+   ```bash
+   git clone <your-repo-url>
+   cd <repo-folder>
+   ```
+
+2. **Install dependencies**
+   Make sure you have Python installed, then run:
+
+   ```bash
+   pip install flask
+   ```
+
+3. **Start the app**
+   Launch the app with:
+
+   ```bash
+   python app.py
+   ```
+
+4. **Open in your browser**
+   Go to:
+
+   ```
+   http://127.0.0.1:5000/
+   ```
+
+   Hit the **Draw Reward** button and enjoy your gamified motivation! 🎉
